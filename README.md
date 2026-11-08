@@ -2,22 +2,18 @@
 
 Computer Science student at Columbia University, graduating May 2027. I build AI evaluation tools, backend systems, and web applications.
 
-## Selected projects
+## Projects
 
-### [Humor Flavor Studio](https://github.com/MitchRosenthal/humor-flavor-studio)
-An editor and test runner for multi-step LLM caption workflows. Configure models and prompts, upload images, and inspect execution logs. Built with Next.js, TypeScript, and Supabase; integrates with a shared caption-generation service.
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**MuscleMap**](https://github.com/MitchRosenthal/MuscleMap) · [live site](https://mitchrosenthal.github.io/MuscleMap/) | Interactive anatomy site with clickable front/back muscle maps, lessons and a quiz game. Four-person team project; I built the muscle maps, front/back navigation and progress tracking. | Python, Flask, JavaScript, SVG |
+| [**Humor Flavor Studio**](https://github.com/MitchRosenthal/humor-flavor-studio) | Editor and test runner for multi-step LLM caption workflows: build prompt chains, run them on an image, inspect the results. | Next.js, TypeScript, Supabase |
+| [**Humor Study**](https://github.com/MitchRosenthal/humor-study) | Image-caption app with upload, swipe voting and meme downloads, redesigned after a three-person usability study. | Next.js, TypeScript, Supabase |
+| [**Humor Admin**](https://github.com/MitchRosenthal/humor-admin) | Admin dashboard for image management, LLM configuration and caption-rating stats. | Next.js, TypeScript, Supabase |
+| **Multi-Chain Wallet** | Self-custody crypto wallet, in progress: BIP-39 recovery phrases and BIP-44 Ethereum key derivation so far. Repo is private until it's further along. | TypeScript, React, ethers.js |
+| **Web Lookup Server in C** | HTTP/1.0 web server built from scratch on the Sockets API, serving static and dynamic pages from a server-hosted library. Code is private under course policy. | C, UNIX |
 
-### [Humor Study](https://github.com/MitchRosenthal/Hello-World)
-An image-caption application with upload and voting flows. The repository includes a three-person usability study examining mobile navigation, generation feedback, and caption interaction.
-
-### [Humor Admin](https://github.com/MitchRosenthal/humor-admin)
-An administration interface for image management and caption-rating statistics, with Google sign-in and administrator access controls.
-
-The hosted applications require authentication; repository code is public.
-
-## Team project
-
-**MuscleMap** — a Flask anatomy learning application built with three teammates. I worked on interactive muscle maps, SVG regions, front/back navigation, and learning progress. The original repository is private; a public portfolio version is not currently available.
+The Humor apps were built for a Columbia course, so signing in to the live apps needs a course Google account.
 
 ## Technologies
 
