@@ -2,8 +2,6 @@
 
 Computer Science student at Columbia University, graduating May 2027. I build AI evaluation tools, backend systems, and web applications.
 
-At Tennr, I rebuilt an insurance order-matching pipeline that improved accuracy from 50% to 82%, built retrieval and ranking evaluations, and used Temporal to run order-type lookup evaluations. At VISS, I worked on a C-based collision-alert system and a React Native app.
-
 ## Selected projects
 
 ### [Humor Flavor Studio](https://github.com/MitchRosenthal/humor-flavor-studio)
